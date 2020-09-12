@@ -1,11 +1,9 @@
 ---
-name: New Article
-about: Submit an article to be reviewed and published
-title: Article's title
-labels: article
+name: New Content
+about: Submit content to be reviewed and published
+title: Content's title
+labels: 'curated content'
 assignees: ''
-
----
 
 ---
 url: example.com/ 
